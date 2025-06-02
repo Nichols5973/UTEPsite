@@ -229,7 +229,7 @@ main .section {
 /* section metadata */
 main .section.light,
 main .section.highlight {
-  background-color: var(--light-color);
+  background-color: #f3811e;
 }
 
 ol {
